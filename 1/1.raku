@@ -1,6 +1,6 @@
 #!/usr/bin/env raku
 #
-# Advent of Code
+# Advent of Code, Day 1: Secret Entrance
 # 2025-12-01
 
 unit sub MAIN ($file);
